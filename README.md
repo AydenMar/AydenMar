@@ -15,7 +15,7 @@
 - <a href="https://drive.google.com/file/d/1LHMxLD1n_uQcwPhQ7OCyFR0SVr3simHJ/view?usp=sharing">Chrysalis</a>
 
 
-<h2>📺 Sound Design & Visual Work</h2>
+<h2>🔊 Sound Design & Visual Work</h2>
 
 - <em><a href="https://saturatedsamples.bandcamp.com/album/sorri-sample-pack">Sorri (Sample Pack)</a><em>
 - <a href="https://saturatedsamples.bandcamp.com/album/dead-pan-sample-pack">Dead Pan (Sample Pack)</a><em>
@@ -24,6 +24,11 @@
 - <a href="https://kagemusic.gumroad.com/l/iotBt">[MIZARU]_Vol_I</a><em>
 - <a href="https://youtu.be/LInD6OaAiC0">#westworldscoringcompetition2020 (Entry by Zain Wolf & Ayden) // Westworld Competition // HBO // Spitfire</a><em>
 - <a href="https://youtu.be/lLBNmq3NGBE">ＫＡＧＥ - S O S E I K I [A/V MIX 2023]</a><em>
+  
+ <h2>📄 Certifications</h2>
+ - <a href="http://training.digidesign.com/listings/listing_admin/user_cert4.cfm?id=4628667&courseid=222">Protools User </a>
+ - <a href="http://training.digidesign.com/listings/listing_admin/user_cert4.cfm?id=4628667&courseid=230">Protools 210 </a>
+  
 
 <h2> 🤳 Connect with me:</h2>
 
