@@ -1,13 +1,13 @@
 <h1>Hi, I'm Ayden! <br/><a href="https://www.linkedin.com/in/ayden-marthinus-a9862b191/">Audio Engineering Professional</a>, <a href="https://soundcloud.com/kageidk">Music Producer</a>, <a href="https://linktr.ee/kageidk">Sound Designer</a></h1>
 
 <h2>🎬 Audio Engineering Portfolio:</h2>
-<a href="https://github.com/AydenMar/Elif">Dubbing</a>, <em> [Turkish Novela into Afrikaans/Korean Drama into English]</em></p>
+<a href="https://github.com/AydenMar/Elif">Dubbing</a> <em> [Turkish Novela into Afrikaans/Korean Drama into English]</em></p>
 
 - <a href="https://drive.google.com/file/d/1HjwMrduKbj_nr-9KmYcPohZ60qXyGAtT/view?usp=share_link">Elif</a><em> [Over 1000 Episodes Recorded ,Mixed and Mastered]</em></p>
 
 - <a href="https://drive.google.com/file/d/1EJFVZLdn3kDQPOrJvC-EHTNxUBcrmgu_/view?usp=share_link/">Ramo</a> <em>[130 Episodes Recorded ,Mixed and Mastered]</em></p>
-- <a href="https://drive.google.com/file/d/14Ebo8OorhxpLh6O5n3mq1l4tD76SG43c/view?usp=share_link">The Pit</a>[<em>[Over 300 Episodes Recorded ,Mixed and Mastered]</em></p>
-- <a href="https://drive.google.com/file/d/11VIYF28qrPjUhFUauU1uwp7vRhTbWqQu/view?usp=share_link">For My Family</a><em>[Over 150 Episodes Recorded ,Mixed and Mastered]</em></p>
+- <a href="https://drive.google.com/file/d/14Ebo8OorhxpLh6O5n3mq1l4tD76SG43c/view?usp=share_link">The Pit</a> [<em> [Over 300 Episodes Recorded ,Mixed and Mastered]</em></p>
+- <a href="https://drive.google.com/file/d/11VIYF28qrPjUhFUauU1uwp7vRhTbWqQu/view?usp=share_link">For My Family</a><em> [Over 150 Episodes Recorded ,Mixed and Mastered]</em></p>
 - <a href="https://drive.google.com/file/d/16D7mjLdcxW9Qsuw9sQsNm5b95jjMYAS_/view?usp=share_link">Home For Summer</a>
 - <a href="https://drive.google.com/file/d/1D5okRk5qggcb8mFBBy2TGD1b3PeeafLw/view?usp=share_link">Last Summer</a>
 - <a href="https://drive.google.com/file/d/1rSlLhdIPmsRHGy7iem9T3Lr4D9nbj3Qa/view?usp=share_link">Love Is In The Air</a> <em>[160 Episodes Recorded ,Mixed and Mastered]</em></p>
