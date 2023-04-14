@@ -28,7 +28,7 @@
  <h2>📄 Certifications</h2>
  - <a href="http://training.digidesign.com/listings/listing_admin/user_cert4.cfm?id=4628667&courseid=222">Protools User </a>
  - <a href="http://training.digidesign.com/listings/listing_admin/user_cert4.cfm?id=4628667&courseid=230">Protools 210 </a>
- - <a href="https://drive.google.com/file/d/1rlc5FTlWVkJQxO3e-AR_7KVFFx2b7HiY/view?usp=share_link">Resume </a>
+ - <a href="https://drive.google.com/file/d/1mp7s8fdg4OipammsqgNAXnLVKogbI2bV/view?usp=sharing">Resume </a>
   
 
 <h2> 🤳 Connect with me:</h2>
